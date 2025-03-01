@@ -1,0 +1,3 @@
+123456,Luke,De Guzman,90.0,80.0
+654321,Ukel ,De Guzman,70.0,80.0
+321456,Abel,De Guzman,50.0,60.0
